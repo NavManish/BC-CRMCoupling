@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="CRMCouplingtBatch">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 202329295 - NamedType 2184894357" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Customer and %2 Account have %1 child Contact records coupled to one another. Do you want to delete their couplings as well?</source>
+          <note from="Developer" annotates="general" priority="2">%1 is a number, %2 is CRM Product Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit D365_CRM AutoCouple Mngmt - NamedType RemoveCoupledContactsUnderCustomerQst</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice Demo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - ReportDataItem 809936682 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - ReportDataItem Sales Invoice Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of copies of each document (in addition to the original) that you want to print.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the printed report to show information that is only for internal use.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Control 816368762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that interactions with the contact are logged.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Control LogInteraction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Control 1885540899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Control DisplayAsmInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Control 1885540899 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Control DisplayAsmInformation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Control 215716959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Additional Fee Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Control DisplayAdditionalFeeNote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - Control 215716959 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want notes about additional fees to be shown on the document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - Control DisplayAdditionalFeeNote - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Invoice %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Document No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 4022464961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType PageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification in </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Prepayment Invoice %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text018</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 1302975608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text023</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 196491397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Shipment Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text024</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 834188014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text025</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 3216065459" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text026</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 3853762076" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text027</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 2747277865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text028</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 3384974482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text029</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 1148659762" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text030</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 510963145" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text031</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 4168233824" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text032</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 3530537207" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text033</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 3699446230" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text034</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 3061749613" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text035</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 2424052996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text036</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 1786356379" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text037</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 342054122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text038</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 3999324801" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType Text039</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 590686299" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType PmtTermsDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 2248224435" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType ShpMethodDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 2862688884" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType HomePageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 595034892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType EMailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2984914403 - NamedType 3112881028" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_Sales Invoice Demo - NamedType DocDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3730148591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer  Export</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerreportExcel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1980429837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC CRM Coupling</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_BC CRM Coupling - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1980429837 - Control 989751795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_BC CRM Coupling - Control FileName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1980429837 - Control 4104898276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Sheet Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_BC CRM Coupling - Control SheetName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1980429837 - Control 155101874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Entity for Coupling Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_BC CRM Coupling - Control NAVCRMCoupleEntity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1980429837 - Control 349744133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Row to Skip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report D365_BC CRM Coupling - Control RowstoSkip - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
